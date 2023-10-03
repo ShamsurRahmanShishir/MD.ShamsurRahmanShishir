@@ -1,4 +1,4 @@
-[![MasterHead](https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0)](https://github.com/ShamsurRahmanShishir/MD.ShamsurRahmanShishir)
+[![MasterHead](https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0)](https://github.com/ShamsurRahmanShishir)
 
 <h1 align="center">Hi 👋, I'm MD.ShamsurRahmanShishir</h1>
 <img align="right" alt="Coding" width="400" src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0">
